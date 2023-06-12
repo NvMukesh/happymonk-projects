@@ -116,4 +116,4 @@ F1-Score: 0.9640287769784172
 furthur detatils are in the Jupyter notebook in the folder of the repo
 
 
-In summary this MNIST model has high accuracy due the high size datset si the neuron trains itself and updates very will and vice versa IRIS model accuracy reflect due the size of dataset
+In summary this MNIST model has high accuracy due the high size datset so the neuron trains itself better and avoids over fitting and updates very will and vice versa IRIS model accuracy reflect due the size of dataset
